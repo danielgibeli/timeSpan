@@ -1,0 +1,11 @@
+/Users/delaineviana/CursoNelio/C#Pool/timeSpan/bin/Debug/netcoreapp2.2/timeSpan.deps.json
+/Users/delaineviana/CursoNelio/C#Pool/timeSpan/bin/Debug/netcoreapp2.2/timeSpan.runtimeconfig.json
+/Users/delaineviana/CursoNelio/C#Pool/timeSpan/bin/Debug/netcoreapp2.2/timeSpan.runtimeconfig.dev.json
+/Users/delaineviana/CursoNelio/C#Pool/timeSpan/bin/Debug/netcoreapp2.2/timeSpan.dll
+/Users/delaineviana/CursoNelio/C#Pool/timeSpan/bin/Debug/netcoreapp2.2/timeSpan.pdb
+/Users/delaineviana/CursoNelio/C#Pool/timeSpan/obj/Debug/netcoreapp2.2/timeSpan.csprojAssemblyReference.cache
+/Users/delaineviana/CursoNelio/C#Pool/timeSpan/obj/Debug/netcoreapp2.2/timeSpan.csproj.CoreCompileInputs.cache
+/Users/delaineviana/CursoNelio/C#Pool/timeSpan/obj/Debug/netcoreapp2.2/timeSpan.AssemblyInfoInputs.cache
+/Users/delaineviana/CursoNelio/C#Pool/timeSpan/obj/Debug/netcoreapp2.2/timeSpan.AssemblyInfo.cs
+/Users/delaineviana/CursoNelio/C#Pool/timeSpan/obj/Debug/netcoreapp2.2/timeSpan.dll
+/Users/delaineviana/CursoNelio/C#Pool/timeSpan/obj/Debug/netcoreapp2.2/timeSpan.pdb
